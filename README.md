@@ -10,3 +10,8 @@ This project was created to reinforce my Ruby on Rails skills while learning how
 * [Figaro](https://github.com/laserlemon/figaro) - environment variables configuration
 * [Bootstrap-sass](https://github.com/twbs/bootstrap-sass) - responsive CSS frameworok
 * [Heroku](https://dashboard.heroku.com/) - deployment to web
+
+
+#Live web app
+
+This app is currently hosted on Heroku. [Feel free to take a look!](https://prototype-saas.herokuapp.com/)
